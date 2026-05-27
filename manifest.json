@@ -1,6 +1,6 @@
 {
-  "name": "Lab 8 - Network & ServiceWorkers",
-  "short_name": "Arman",
+  "name": "Lab8_Starter",
+  "short_name": "Sirtaj Gill",
   "description": "A recipe card Progressive Web App using cached recipe data and service workers.",
   "start_url": "./index.html",
   "display": "standalone",
