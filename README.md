@@ -1,1 +1,3 @@
 # Lab8-Starter
+
+Graceful degradation and service workers are related because they both help a website work even when the user's browser or network conditions are stop working or are glitching. Graceful degradation means the site starts with all of its features but still remains usable if something fails or is unavailable. Service workers support this by caching important files and responses so if the network is slow or offline the app can still load saved resources from the browser instead of completely breaking. In this lab the service worker makes the recipe app less dependent on the internet by storing recipe requests and other fetched files in the cache.
